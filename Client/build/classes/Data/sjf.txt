@@ -1,0 +1,6 @@
+name,arrivalTime,burstTime
+P1,1,6
+P2,2,3
+P3,3,2
+P4,4,3
+P5,5,4
